@@ -32,7 +32,8 @@ Este repositório tem como objetivo dar dicas e incentivar a contribuição open
 3. Crie uma pull request com suas alterações
 
 ## O que é
-- Fork:
+- Fork: 
+De maneira bem simples, um fork é basicamente criar uma cópia do estado atual de um repositório específico para sua conta github/gitlab, com isso você pode implementar  e testar novas funções sem alterar o código do repositório original.
 - Pull Request:
 - Review:
 
