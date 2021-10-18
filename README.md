@@ -34,8 +34,7 @@ Este repositório tem como objetivo dar dicas e incentivar a contribuição open
 3. Crie uma pull request com suas alterações
 
 ## O que é
-
-- Fork: Quando você faz uma copia de um repositório público para o seu e poderá escolher entre: Contribuir para o projeto ou Utilizar para propósitos pessoais.
+- Fork: De maneira bem simples, um fork é basicamente criar uma cópia do estado atual de um repositório específico para sua conta github/gitlab. Com isso, você poderá escolher entre: Contribuir para o projeto ou Utilizar para propósitos pessoais, podendo implementar e testar novas funções sem alterar o código do repositório original.
 - Pull Request: Quando você envia uma alteração em uma branch. Normalmente chamado de "PR" quando se faz uma alteração em uma branch sobe-se um Pull Request para revisarem.
 - CodeReview: O ato de revisar o código que veio de um Pull Request, normalmente é feito por pessoas mais experientes no projeto e/ou contribuidores mais antigos.
 
