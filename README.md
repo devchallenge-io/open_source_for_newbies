@@ -42,7 +42,6 @@ Este repositório tem como objetivo dar dicas e incentivar a contribuição open
 ## Projetos open source
 
 Lista de projetos brasileiros que você pode contribuir:
-
 - [DevChallenge](https://devchallenge.com.br)
 - [Nullstack](https://github.com/nullstack/nullstack)
 - [RastreioBot](https://github.com/GabrielRF/RastreioBot)
@@ -61,7 +60,7 @@ Lista de projetos brasileiros que você pode contribuir:
 
 Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? <https://discord.gg/yvYXhGj> <br>
 <br>
-Site: <https://www.devchallenge.com.br/> <br>
+Site: [DevChallenge](https://www.devchallenge.com.br/) <br>
 
 <table style="border-color:transparent">
     <th>
