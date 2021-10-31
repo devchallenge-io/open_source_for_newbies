@@ -30,11 +30,27 @@ Este repositório tem como objetivo dar dicas e incentivar a contribuição open
 ## Principais Termos
 O ambiente do código aberto possui diversos procedimentos são utilizados rotineiramente. Por isso, listamos abaixo os principais:
 
-- **Fork:** De maneira bem simples, um fork é basicamente criar uma cópia do estado atual de um repositório específico para sua conta github/gitlab. Com isso, você poderá escolher entre: Contribuir para o projeto ou Utilizar para propósitos pessoais, podendo implementar e testar novas funções sem alterar o código do repositório original.
+### Fork
 
-- **Pull Request:** Quando você envia uma alteração em uma branch. Normalmente chamado de "PR" quando se faz uma alteração em uma branch sobe-se um Pull Request para revisarem.
+**O que é:** De maneira bem simples, um fork é basicamente criar uma cópia do estado atual de um repositório específico para sua conta github/gitlab. 
 
-- **CodeReview:** O ato de revisar o código que veio de um Pull Request, normalmente é feito por pessoas mais experientes no projeto e/ou contribuidores mais antigos.
+Com isso, você poderá escolher entre: Contribuir para o projeto ou utilizar para propósitos pessoais, podendo implementar e testar novas funções sem alterar o código do repositório original.
+
+**Como utilizar no github**: Para fazer um fork, primeiro acesse o projeto que deseja contribuir e clique no botão "fork" no canto superior direito:
+<img src="assets/fork-principal.png">
+
+Assim, você terá a cópia deste projeto na sua conta e poderá fazer as alterações que desejar:
+<img src="assets/fork-pessoal.png">
+
+
+### Pull Request
+**O que é:** Quando você envia uma alteração em uma branch. Normalmente chamado de "PR" quando se faz uma alteração em uma branch sobe-se um Pull Request para revisarem.
+
+### CodeReview
+**O que é:** O ato de revisar o código que veio de um Pull Request, normalmente é feito por pessoas mais experientes no projeto e/ou contribuidores mais antigos.
+
+**Como utilizar no github**: Para fazer uma revisão de código, você deve acessar a pull request que deseja analisar e clicar na opção "review changes". Assim você poderá fazer um comentário, aprovar as mudanças ou solicitar uma alteração:
+<img src="assets/review-changes.png">
 
 ## Projetos open source
 
@@ -75,8 +91,8 @@ Site: [DevChallenge](https://www.devchallenge.com.br/) <br>
 <table style="border-color:transparent">
     <th>
         <td><a href="https://discord.gg/yvYXhGj"><img src="https://cdn3.iconfinder.com/data/icons/discord/64/discord_20-512.png" width="30px" height="30px" alt="Discord">      </a></td>
-    <td><a href="https://www.linkedin.com/company/devchallenge/"><img src="https://image.flaticon.com/icons/svg/1384/1384014.svg" width="30px" height="30px"                alt="Linkedin"></a></td>
-    <td><a href="https://twitter.com/dev_challenge"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" width="30px" height="30px"        alt="Twitter"></a</td>
-    <td><a href="https://www.instagram.com/devchallenge/"><img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png" width="30px"            height="30px" alt="Instagram"></a></td>
+      <td><a href="https://www.linkedin.com/company/devchallenge/"><img src="https://image.flaticon.com/icons/svg/1384/1384014.svg" width="30px" height="30px"                alt="Linkedin"></a></td>
+      <td><a href="https://twitter.com/dev_challenge"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" width="30px" height="30px"        alt="Twitter"></a</td>
+      <td><a href="https://www.instagram.com/devchallenge/"><img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png" width="30px"            height="30px" alt="Instagram"></a></td>
     </th>
 </table>
