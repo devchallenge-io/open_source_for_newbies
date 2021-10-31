@@ -50,11 +50,14 @@ Seja iniciante ou mais experiente na área, existem diversas maneiras que você 
 Você pode começar com melhorias em documentação e ir evoluindo até que esteja preparado para fazer mudanças e correções em código, por exemplo.
 
 Entre as opções, existem:
-- Documentação
+- Criando e melhorando a documentação
 - Criando novas funcionalidades no frontend
 - Criando novas funcionalidades no backend
 - Criando testes
 - Fazendo correções
+- Criando tutoriais do projeto
+- Criando um novo layout para melhorar a usabilidade do projeto
+- Organizando eventos, workshops ou encontros sobre o projeto
 - Participando de comunidades
 
 ## Como contribuir
