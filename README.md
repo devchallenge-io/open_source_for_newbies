@@ -17,26 +17,24 @@
 
 - [Índice](#índice)
 - [Sobre](#sobre)
-- [Como contribuir](#como-contribuir)
-- [O que é](#o-que-é)
+- [Principais Termos](#principais-termos)
 - [Projetos open source](#projetos-open-source)
-- [Como contribuir](#como-contribuir-1)
+- [O que fazer](#o-que-fazer)
+- [Como contribuir](#como-contribuir)
 - [Comunidade](#comunidade)
 
 ## Sobre
 
 Este repositório tem como objetivo dar dicas e incentivar a contribuição open source.
 
-## Como contribuir
+## Principais Termos
+O ambiente do código aberto possui diversos procedimentos são utilizados rotineiramente. Por isso, listamos abaixo os principais:
 
-1. Faça o fork deste repositório
-2. Adicione dicas que possam ajudar desenvolvedores sobre o mundo open source
-3. Crie uma pull request com suas alterações
+- **Fork:** De maneira bem simples, um fork é basicamente criar uma cópia do estado atual de um repositório específico para sua conta github/gitlab. Com isso, você poderá escolher entre: Contribuir para o projeto ou Utilizar para propósitos pessoais, podendo implementar e testar novas funções sem alterar o código do repositório original.
 
-## O que é
-- Fork: De maneira bem simples, um fork é basicamente criar uma cópia do estado atual de um repositório específico para sua conta github/gitlab. Com isso, você poderá escolher entre: Contribuir para o projeto ou Utilizar para propósitos pessoais, podendo implementar e testar novas funções sem alterar o código do repositório original.
-- Pull Request: Quando você envia uma alteração em uma branch. Normalmente chamado de "PR" quando se faz uma alteração em uma branch sobe-se um Pull Request para revisarem.
-- CodeReview: O ato de revisar o código que veio de um Pull Request, normalmente é feito por pessoas mais experientes no projeto e/ou contribuidores mais antigos.
+- **Pull Request:** Quando você envia uma alteração em uma branch. Normalmente chamado de "PR" quando se faz uma alteração em uma branch sobe-se um Pull Request para revisarem.
+
+- **CodeReview:** O ato de revisar o código que veio de um Pull Request, normalmente é feito por pessoas mais experientes no projeto e/ou contribuidores mais antigos.
 
 ## Projetos open source
 
@@ -46,14 +44,24 @@ Lista de projetos brasileiros que você pode contribuir:
 - [RastreioBot](https://github.com/GabrielRF/RastreioBot)
 - [Dialetus](https://github.com/dialetus/dialetus-service)
 
-## Como contribuir
+## O que fazer
+Seja iniciante ou mais experiente na área, existem diversas maneiras que você pode contribuir para um projeto open source. 
 
+Você pode começar com melhorias em documentação e ir evoluindo até que esteja preparado para fazer mudanças e correções em código, por exemplo.
+
+Entre as opções, existem:
 - Documentação
 - Criando novas funcionalidades no frontend
 - Criando novas funcionalidades no backend
 - Criando testes
 - Fazendo correções
 - Participando de comunidades
+
+## Como contribuir
+
+1. Faça o fork deste repositório
+2. Adicione dicas que possam ajudar desenvolvedores sobre o mundo open source
+3. Crie uma pull request com suas alterações
 
 ## Comunidade
 
